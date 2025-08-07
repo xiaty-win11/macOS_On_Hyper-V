@@ -2,8 +2,7 @@
 # Hola
 # ...
 # Just Kidding
-in https://github.com/balopez83/macOS_On_Hyper-V/releases there is UEFI的压缩包
-it installs macOS 15.5
+在 https://github.com/balopez83/macOS_On_Hyper-V/releases 有UEFI的压缩包
 you can edit it by
 1.diskgenius
 2.open
