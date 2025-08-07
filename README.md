@@ -2,7 +2,7 @@
 # Hola
 # ...
 # Just Kidding
-in the releases channel,there is UEFI.vhdx
+in https://github.com/balopez83/macOS_On_Hyper-V/releases there is UEFI的压缩包
 it installs macOS 15.5
 you can edit it by
 1.diskgenius
